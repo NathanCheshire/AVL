@@ -1,13 +1,7 @@
 # Project 4 : AVL
 ### Made for data structures course fall 2019
 
-### Instructions I was given for this homework project (full PDF in files)
-Attention!!! You will be using your BST tree or the BST code base I have provided for this project.
-For this assignment you must implement an AVL which stores strings. Your AVL must implement all of
-the basic operations we have talked about in class.
-
-You should then write a program that allows a user to interact with an instance of the AVL you have
-implemented. This program should implement a text-based interface that allows the user to:
+### Instructions I was given for this homework project
 
 1. Create an empty AVL. This should warn the user they are deleting the existing AVL and ask them
 if they wish to proceed. Remind the user they can save the contents of their AVL to a file.
